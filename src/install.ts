@@ -3,7 +3,7 @@ import { App } from 'vue'
 import CButton from './components/button'
 
 import CRadio from './components/radio'
-import CRadio from './components/radio'
+import CCheckbox from './components/checkbox'
 import CSelect from './components/select'
 import CUpload from './components/upload'
 import CDescriptions from './components/descriptions'
@@ -24,6 +24,7 @@ const components: any = {
   CCol,
   CButton,
   CRadio,
+  CCheckbox,
   CTable,
   CForm,
   CSelect,
