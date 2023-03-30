@@ -1,9 +1,9 @@
 {
-  "name": "crco",
+  "name": "gui",
   "author": "seepine",
   "license": "MIT",
-  "version": "2.3.5",
-  "description": "collect arco",
+  "version": "1.0.1",
+  "description": "gui arco",
   "main": "./dist/index.umd.js",
   "module": "./dist/index.js",
   "keywords": [
